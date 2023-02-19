@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Potholes']
+
+roboflow:
+  workspace: hackathon-tdwhr
+  project: pothole-segmentation-hqol4
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hackathon-tdwhr/pothole-segmentation-hqol4/dataset/7
