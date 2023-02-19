@@ -18,5 +18,5 @@ Sample segmentation predictions
 Elbow plot for KMeans<br>
 ![Elbow](fig/elbowPreview.png)
 
-Cluster plot for 'pothole area' vs 'bounding box area'
+Cluster plot for 'pothole area' vs 'bounding box area'<br>
 ![cluster plot](fig/clusterPreview.png)
